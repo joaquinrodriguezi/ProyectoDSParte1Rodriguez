@@ -1,0 +1,12 @@
+# Entorno Python
+__pycache__/
+*.pyc
+.env
+.venv
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Datos
+/data/
+/outputs/
