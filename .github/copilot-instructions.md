@@ -1,6 +1,6 @@
 * empieza siempre tu respuesta con el emoji 🤖
 * responde siempre en español
-* quiero que siempre tengas en cuenta que voy a usar un modelo re regresion y la hipotesis es si La potencia del motor, el peso y el tipo de tracción permiten predecir el precio de un auto con buena precisión (regresión).
+* identificar qué variables numéricas tienen mayor peso o mayor influencia en el precio de un auto utilizando un modelo de Random Forest.
 * recuerda que las variables del dataframe df que tienes que usar siempre en el codigo que generes son:['Brand', 'Model', 'Year', 'Country', 'Condition', 'Engine_Size',
        'Horsepower', 'Torque', 'Weight', 'Top_Speed', 'Acceleration_0_100',
        'Fuel_Type', 'Drivetrain', 'Transmission', 'Fuel_Efficiency',
